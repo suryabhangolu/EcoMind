@@ -362,7 +362,7 @@ This submission is optimized for all 5 evaluation criteria:
 
 ## 👨‍💻 Author
 
-**Surya Bhangolu**
+**Surya Bhan Singh**
 - GitHub: [@suryabhangolu](https://github.com/suryabhangolu)
 - Repo: [github.com/suryabhangolu/EcoMind](https://github.com/suryabhangolu/EcoMind)
 
